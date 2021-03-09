@@ -41,9 +41,7 @@ export const Intro = () => {
             </a>
           </div>
         </Details>
-        <Thumbnail>
-          <img src={heroImage} alt="Crio.Do" />
-        </Thumbnail>
+        
       </IntroWrapper>
     </div>
   );
